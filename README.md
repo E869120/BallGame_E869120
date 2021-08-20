@@ -1,4 +1,4 @@
-# ゲーム「Collecting Balls」
+# Valuable Balls
 ボールを集める楽しいゲームです．プレイ画面の例は以下のようになります．
 
 ![16](https://user-images.githubusercontent.com/30901380/130218199-b6adcc0d-df5c-4c63-9afb-a6f9a27862cd.jpg)
